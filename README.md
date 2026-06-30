@@ -34,11 +34,7 @@ The model is trained on the **Air Quality and Health Impact Dataset**, incorpora
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sunbalsharif52-cyber/Eco-Health-Risk-Predictor.git
+git clone [https://github.com/sunbalsharif52-cyber/Eco-Health-Risk-Predictor.git](https://github.com/sunbalsharif52-cyber/Eco-Health-Risk-Predictor.git)
 cd Eco-Health-Risk-Predictor
-
-
-https://github.com/user-attachments/assets/10a77505-1a2e-42ae-9ee9-154cab0e74c9
-
-
-
+pip install -r requirements.txt
+streamlit run app.py
