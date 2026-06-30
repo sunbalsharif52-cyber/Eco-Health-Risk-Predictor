@@ -38,3 +38,8 @@ git clone [https://github.com/sunbalsharif52-cyber/Eco-Health-Risk-Predictor.git
 cd Eco-Health-Risk-Predictor
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+https://github.com/user-attachments/assets/7a7b648c-7086-4f22-910b-cb10be1cd0c5
+
