@@ -40,6 +40,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
+https://github.com/user-attachments/assets/2eaee3e8-ed43-45ee-8d4f-a384e3ea79dc
 
-https://github.com/user-attachments/assets/7a7b648c-7086-4f22-910b-cb10be1cd0c5
+
 
